@@ -55,7 +55,7 @@ The project demonstrates the potential of deep learning in medical diagnosis, pa
 ### Installation
 Clone the repository and install the required packages:
 ```sh
-git clone https://github.com/username/SkinLesionDeepLearning.git
+git clone https://github.com/armferreira/SkinLesionDeepLearning.git
 ```
 ### References
 - Hartman, R. I., & Lin, J. Y. (2019). Cutaneous melanoma—A review in detection, staging, and management. Hematology/Oncology Clinics of North America, 33(1), 25–38.
